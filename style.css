@@ -1,0 +1,75 @@
+.navbar{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(5, 5, 79);
+    margin : 0;
+    color: white;
+    border: 2px solid black;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}
+.mid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    margin-top: 5rem;
+
+}
+.choice{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.choice:hover{
+    opacity: 0.8;
+    border: 5px solid black;
+    cursor: all-scroll;
+}
+img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.scoreboad{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    object-fit: contain;
+font-weight: 900;
+    margin-top: 50px;
+    margin-top: 100px;
+    margin-right: 300px;
+}
+.footer{
+    height: 70px; 
+    width: 200px;
+
+    background-color: rgb(4, 4, 55);
+    color: white;
+    border: 3px solid black;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 1.5rem;
+
+    
+
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+
+}
